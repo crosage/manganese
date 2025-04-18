@@ -4,9 +4,11 @@
 
 去雾前
 
-![屏幕截图 2025-04-18 212403](./img\屏幕截图 2025-04-18 212403.png)
+![屏幕截图 2025-04-18 212403](https://github.com/user-attachments/assets/3d87bcc6-d2b1-4f09-85e2-66f414bcbcb3)
+
 
 去雾后
 
-![屏幕截图 2025-04-18 212334](./img\屏幕截图 2025-04-18 212334.png)
+![屏幕截图 2025-04-18 212334](https://github.com/user-attachments/assets/ac07a217-1e40-4b3f-bdd9-2f616524022c)
+
 
